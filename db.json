@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctor Appointment",
+      "day": "Feb 5th at 4:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "School Meeting",
+      "day": "Feb 5th at 10:00am",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Lunch With Mr Ahmad",
+      "day": "Feb 5th at 2:00pm",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Food Shopping",
+      "day": "Feb 5th at 1:15pm",
+      "reminder": false
+    },
+    {
+      "text": "Going to the gym",
+      "day": "Mon 15th at 9:00am",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Take A Shower",
+      "day": "Thur 20th at 3:15pm",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
